@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-	printf("bla\n");
+	printf("bla and foo\n");
 }
